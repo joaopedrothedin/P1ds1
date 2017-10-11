@@ -111,7 +111,7 @@ public class GuiAluno extends javax.swing.JFrame {
 
         jLInstrucao.setText("Instrução:");
 
-        jLabel6.setText("jLabel6");
+        jLabel6.setText("CADASTRO DE ALUNOS");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
